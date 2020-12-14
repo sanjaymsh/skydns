@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 language: go
 env:
   - DEP_VERSION="0.4.1"
